@@ -12,6 +12,12 @@ The languages and utilities that I have worked with are:
 
 You can reach me at this email: andytsimphaly@gmail.com
 
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 <!---
 AndySimph/AndySimph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
