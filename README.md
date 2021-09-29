@@ -16,7 +16,7 @@ You can reach me at this email: andytsimphaly@gmail.com
 
 | Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
+| C++ | C# |
 | git diff | Show file differences that haven't been staged |
 
 <!---
