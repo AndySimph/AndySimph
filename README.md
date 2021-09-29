@@ -7,7 +7,7 @@ I'm interested and have been taking classes in A.I. and Operating Systems.
 The languages and utilities that I have worked with are: 
 
 | Languages |
-| --- | --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | C++ | C# | Python | JavaScript | PHP | MYSQL | React |
 
 
@@ -15,7 +15,7 @@ You can reach me at this email: andytsimphaly@gmail.com
 
 
 | Command | Description |
-| --- | --- |
+| :---: | :---: |
 | C++ | C# |
 | git diff | Show file differences that haven't been staged |
 
