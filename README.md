@@ -1,4 +1,4 @@
-Hello, and Welcome to my page of projects
+Hi there, and welcome to my page of projects
 
 I've worked on programming a couple of small games, such as tetris, snake, and a game combining nesting dolls and tic-tac-toe. I'm also currently working on the Project Euler problems as well as a Crypto Modeling and Trading bot using React and Expo.
 
